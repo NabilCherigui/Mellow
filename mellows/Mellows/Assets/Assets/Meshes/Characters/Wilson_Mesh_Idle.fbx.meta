@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: b74b2d2abedc03547a5b2d0e74c7c4e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wilson_Model_0055:Chest
+    100004: Wilson_Model_0055:Chest_Controller
+    100006: Wilson_Model_0055:Head
+    100008: Wilson_Model_0055:Head_Controller
+    100010: Wilson_Model_0055:Hip
+    100012: Wilson_Model_0055:Hip_Controller
+    100014: Wilson_Model_0055:Jaw
+    100016: Wilson_Model_0055:L_Ear_Base
+    100018: Wilson_Model_0055:L_Ear_Controller
+    100020: Wilson_Model_0055:L_Ear_tip
+    100022: Wilson_Model_0055:L_Elbow
+    100024: Wilson_Model_0055:L_Eye
+    100026: Wilson_Model_0055:L_Eye_Controller
+    100028: Wilson_Model_0055:L_Eyebrow
+    100030: Wilson_Model_0055:L_EyeBrow_Controller
+    100032: Wilson_Model_0055:L_Foot
+    100034: Wilson_Model_0055:L_Foot_Controller
+    100036: Wilson_Model_0055:L_IndexFinger_Base
+    100038: Wilson_Model_0055:L_IndexFinger_Middle
+    100040: Wilson_Model_0055:L_IndexFinger_Tip
+    100042: Wilson_Model_0055:L_Knee
+    100044: Wilson_Model_0055:L_Leg
+    100046: Wilson_Model_0055:L_Leg_Controller
+    100048: Wilson_Model_0055:L_MiddleFinger_Base
+    100050: Wilson_Model_0055:L_MiddleFinger_Middle
+    100052: Wilson_Model_0055:L_MiddleFinger_Tip
+    100054: Wilson_Model_0055:L_PinkyFinger_Base
+    100056: Wilson_Model_0055:L_PinkyFinger_Middle
+    100058: Wilson_Model_0055:L_PinkyFinger_Tip
+    100060: Wilson_Model_0055:L_Shoulder
+    100062: Wilson_Model_0055:L_Shoulder_Controller
+    100064: Wilson_Model_0055:L_Toe
+    100066: Wilson_Model_0055:L_Tumb_Base
+    100068: Wilson_Model_0055:L_Tumb_Middle
+    100070: Wilson_Model_0055:L_Tumb_Tip
+    100072: Wilson_Model_0055:L_Wrist
+    100074: Wilson_Model_0055:Master_Controller
+    100076: Wilson_Model_0055:Middenriff
+    100078: Wilson_Model_0055:Midderiff_Controller
+    100080: Wilson_Model_0055:Mouth_Controller
+    100082: Wilson_Model_0055:Neck
+    100084: Wilson_Model_0055:Neck_Controller
+    100086: Wilson_Model_0055:R_Ear_Base
+    100088: Wilson_Model_0055:R_Ear_Controller
+    100090: Wilson_Model_0055:R_Ear_tip
+    100092: Wilson_Model_0055:R_Elbow
+    100094: Wilson_Model_0055:R_Eye
+    100096: Wilson_Model_0055:R_Eye_Controller
+    100098: Wilson_Model_0055:R_Eyebrow
+    100100: Wilson_Model_0055:R_EyeBrow_Controller
+    100102: Wilson_Model_0055:R_Foot
+    100104: Wilson_Model_0055:R_Foot_Controller
+    100106: Wilson_Model_0055:R_IndexFinger_Base
+    100108: Wilson_Model_0055:R_IndexFinger_Middle
+    100110: Wilson_Model_0055:R_IndexFinger_Tip
+    100112: Wilson_Model_0055:R_Knee
+    100114: Wilson_Model_0055:R_Leg
+    100116: Wilson_Model_0055:R_Leg_Controller
+    100118: Wilson_Model_0055:R_MiddleFinger_Base
+    100120: Wilson_Model_0055:R_MiddleFinger_Middle
+    100122: Wilson_Model_0055:R_MiddleFinger_Tip
+    100124: Wilson_Model_0055:R_PinkyFinger_Base
+    100126: Wilson_Model_0055:R_PinkyFinger_Middle
+    100128: Wilson_Model_0055:R_PinkyFinger_Tip
+    100130: Wilson_Model_0055:R_Shoulder
+    100132: Wilson_Model_0055:R_Shoulder_Controller
+    100134: Wilson_Model_0055:R_Toe
+    100136: Wilson_Model_0055:R_Tumb_Base
+    100138: Wilson_Model_0055:R_Tumb_Middle
+    100140: Wilson_Model_0055:R_Tumb_Tip
+    100142: Wilson_Model_0055:R_Wrist
+    100144: Wilson_Model_0055:Tail_Base
+    100146: Wilson_Model_0055:Tail_Base_Controller
+    100148: Wilson_Model_0055:Tail_Mid
+    100150: Wilson_Model_0055:Tail_Mid_Controller
+    100152: Wilson_Model_0055:Tail_Point
+    100154: Wilson_Model_0055:Tail_Tip
+    100156: Wilson_Model_0055:Tail_Tip_Controller
+    100158: Wilson_Model_0055:Wilson_Mesh
+    400000: //RootNode
+    400002: Wilson_Model_0055:Chest
+    400004: Wilson_Model_0055:Chest_Controller
+    400006: Wilson_Model_0055:Head
+    400008: Wilson_Model_0055:Head_Controller
+    400010: Wilson_Model_0055:Hip
+    400012: Wilson_Model_0055:Hip_Controller
+    400014: Wilson_Model_0055:Jaw
+    400016: Wilson_Model_0055:L_Ear_Base
+    400018: Wilson_Model_0055:L_Ear_Controller
+    400020: Wilson_Model_0055:L_Ear_tip
+    400022: Wilson_Model_0055:L_Elbow
+    400024: Wilson_Model_0055:L_Eye
+    400026: Wilson_Model_0055:L_Eye_Controller
+    400028: Wilson_Model_0055:L_Eyebrow
+    400030: Wilson_Model_0055:L_EyeBrow_Controller
+    400032: Wilson_Model_0055:L_Foot
+    400034: Wilson_Model_0055:L_Foot_Controller
+    400036: Wilson_Model_0055:L_IndexFinger_Base
+    400038: Wilson_Model_0055:L_IndexFinger_Middle
+    400040: Wilson_Model_0055:L_IndexFinger_Tip
+    400042: Wilson_Model_0055:L_Knee
+    400044: Wilson_Model_0055:L_Leg
+    400046: Wilson_Model_0055:L_Leg_Controller
+    400048: Wilson_Model_0055:L_MiddleFinger_Base
+    400050: Wilson_Model_0055:L_MiddleFinger_Middle
+    400052: Wilson_Model_0055:L_MiddleFinger_Tip
+    400054: Wilson_Model_0055:L_PinkyFinger_Base
+    400056: Wilson_Model_0055:L_PinkyFinger_Middle
+    400058: Wilson_Model_0055:L_PinkyFinger_Tip
+    400060: Wilson_Model_0055:L_Shoulder
+    400062: Wilson_Model_0055:L_Shoulder_Controller
+    400064: Wilson_Model_0055:L_Toe
+    400066: Wilson_Model_0055:L_Tumb_Base
+    400068: Wilson_Model_0055:L_Tumb_Middle
+    400070: Wilson_Model_0055:L_Tumb_Tip
+    400072: Wilson_Model_0055:L_Wrist
+    400074: Wilson_Model_0055:Master_Controller
+    400076: Wilson_Model_0055:Middenriff
+    400078: Wilson_Model_0055:Midderiff_Controller
+    400080: Wilson_Model_0055:Mouth_Controller
+    400082: Wilson_Model_0055:Neck
+    400084: Wilson_Model_0055:Neck_Controller
+    400086: Wilson_Model_0055:R_Ear_Base
+    400088: Wilson_Model_0055:R_Ear_Controller
+    400090: Wilson_Model_0055:R_Ear_tip
+    400092: Wilson_Model_0055:R_Elbow
+    400094: Wilson_Model_0055:R_Eye
+    400096: Wilson_Model_0055:R_Eye_Controller
+    400098: Wilson_Model_0055:R_Eyebrow
+    400100: Wilson_Model_0055:R_EyeBrow_Controller
+    400102: Wilson_Model_0055:R_Foot
+    400104: Wilson_Model_0055:R_Foot_Controller
+    400106: Wilson_Model_0055:R_IndexFinger_Base
+    400108: Wilson_Model_0055:R_IndexFinger_Middle
+    400110: Wilson_Model_0055:R_IndexFinger_Tip
+    400112: Wilson_Model_0055:R_Knee
+    400114: Wilson_Model_0055:R_Leg
+    400116: Wilson_Model_0055:R_Leg_Controller
+    400118: Wilson_Model_0055:R_MiddleFinger_Base
+    400120: Wilson_Model_0055:R_MiddleFinger_Middle
+    400122: Wilson_Model_0055:R_MiddleFinger_Tip
+    400124: Wilson_Model_0055:R_PinkyFinger_Base
+    400126: Wilson_Model_0055:R_PinkyFinger_Middle
+    400128: Wilson_Model_0055:R_PinkyFinger_Tip
+    400130: Wilson_Model_0055:R_Shoulder
+    400132: Wilson_Model_0055:R_Shoulder_Controller
+    400134: Wilson_Model_0055:R_Toe
+    400136: Wilson_Model_0055:R_Tumb_Base
+    400138: Wilson_Model_0055:R_Tumb_Middle
+    400140: Wilson_Model_0055:R_Tumb_Tip
+    400142: Wilson_Model_0055:R_Wrist
+    400144: Wilson_Model_0055:Tail_Base
+    400146: Wilson_Model_0055:Tail_Base_Controller
+    400148: Wilson_Model_0055:Tail_Mid
+    400150: Wilson_Model_0055:Tail_Mid_Controller
+    400152: Wilson_Model_0055:Tail_Point
+    400154: Wilson_Model_0055:Tail_Tip
+    400156: Wilson_Model_0055:Tail_Tip_Controller
+    400158: Wilson_Model_0055:Wilson_Mesh
+    2100000: Wilson_Model_0055_lambert4
+    4300000: Wilson_Model_0055:Wilson_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Wilson_Model_0055:Wilson_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wilson_Model_0055_lambert4
+    second: {fileID: 2100000, guid: 7b4ba44329f2fbb41abddcf246d9b67a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

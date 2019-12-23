@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 6420d41a6fe3337469c33c9da1b2b40e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Sven_0001_0010:Body_mesh
+    100002: Sven_0001_0010:Bones1
+    100004: Sven_0001_0010:chest_bone
+    100006: Sven_0001_0010:Chestpines_mesh
+    100008: Sven_0001_0010:Eyes
+    100010: Sven_0001_0010:Headbone
+    100012: Sven_0001_0010:Headpines_mesh
+    100014: Sven_0001_0010:Hip_bone
+    100016: Sven_0001_0010:Hippines_mesh
+    100018: Sven_0001_0010:Jawbone
+    100020: Sven_0001_0010:joint11
+    100022: Sven_0001_0010:joint11 1
+    100024: Sven_0001_0010:joint12
+    100026: Sven_0001_0010:joint12 1
+    100028: Sven_0001_0010:joint2
+    100030: Sven_0001_0010:joint2 1
+    100032: Sven_0001_0010:joint3
+    100034: Sven_0001_0010:joint3 1
+    100036: Sven_0001_0010:joint5
+    100038: Sven_0001_0010:joint5 1
+    100040: Sven_0001_0010:joint6
+    100042: Sven_0001_0010:joint6 1
+    100044: Sven_0001_0010:joint8
+    100046: Sven_0001_0010:joint8 1
+    100048: Sven_0001_0010:joint9
+    100050: Sven_0001_0010:joint9 1
+    100052: Sven_0001_0010:L_ear
+    100054: Sven_0001_0010:L_ear_2
+    100056: Sven_0001_0010:L_elbow
+    100058: Sven_0001_0010:L_enkle
+    100060: Sven_0001_0010:L_eye_mesh_mesh
+    100062: Sven_0001_0010:L_hip
+    100064: Sven_0001_0010:L_index
+    100066: Sven_0001_0010:L_knee
+    100068: Sven_0001_0010:L_middle
+    100070: Sven_0001_0010:L_pinky
+    100072: Sven_0001_0010:L_shouder
+    100074: Sven_0001_0010:L_thumb
+    100076: Sven_0001_0010:L_too
+    100078: Sven_0001_0010:L_vinger_grp
+    100080: Sven_0001_0010:L_wrist
+    100082: Sven_0001_0010:Meshes
+    100084: Sven_0001_0010:Neck_bone
+    100086: Sven_0001_0010:Neckpines_mesh
+    100088: Sven_0001_0010:R_ear
+    100090: Sven_0001_0010:R_ear_2
+    100092: Sven_0001_0010:R_elbow
+    100094: Sven_0001_0010:R_enkle
+    100096: Sven_0001_0010:R_eye_mesh
+    100098: Sven_0001_0010:R_hip
+    100100: Sven_0001_0010:R_index
+    100102: Sven_0001_0010:R_knee
+    100104: Sven_0001_0010:R_middle
+    100106: Sven_0001_0010:R_pinky
+    100108: Sven_0001_0010:R_shouder
+    100110: Sven_0001_0010:R_thumb
+    100112: Sven_0001_0010:R_too
+    100114: Sven_0001_0010:R_vinger_grouo
+    100116: Sven_0001_0010:R_wrist
+    100118: //RootNode
+    400000: Sven_0001_0010:Body_mesh
+    400002: Sven_0001_0010:Bones1
+    400004: Sven_0001_0010:chest_bone
+    400006: Sven_0001_0010:Chestpines_mesh
+    400008: Sven_0001_0010:Eyes
+    400010: Sven_0001_0010:Headbone
+    400012: Sven_0001_0010:Headpines_mesh
+    400014: Sven_0001_0010:Hip_bone
+    400016: Sven_0001_0010:Hippines_mesh
+    400018: Sven_0001_0010:Jawbone
+    400020: Sven_0001_0010:joint11
+    400022: Sven_0001_0010:joint11 1
+    400024: Sven_0001_0010:joint12
+    400026: Sven_0001_0010:joint12 1
+    400028: Sven_0001_0010:joint2
+    400030: Sven_0001_0010:joint2 1
+    400032: Sven_0001_0010:joint3
+    400034: Sven_0001_0010:joint3 1
+    400036: Sven_0001_0010:joint5
+    400038: Sven_0001_0010:joint5 1
+    400040: Sven_0001_0010:joint6
+    400042: Sven_0001_0010:joint6 1
+    400044: Sven_0001_0010:joint8
+    400046: Sven_0001_0010:joint8 1
+    400048: Sven_0001_0010:joint9
+    400050: Sven_0001_0010:joint9 1
+    400052: Sven_0001_0010:L_ear
+    400054: Sven_0001_0010:L_ear_2
+    400056: Sven_0001_0010:L_elbow
+    400058: Sven_0001_0010:L_enkle
+    400060: Sven_0001_0010:L_eye_mesh_mesh
+    400062: Sven_0001_0010:L_hip
+    400064: Sven_0001_0010:L_index
+    400066: Sven_0001_0010:L_knee
+    400068: Sven_0001_0010:L_middle
+    400070: Sven_0001_0010:L_pinky
+    400072: Sven_0001_0010:L_shouder
+    400074: Sven_0001_0010:L_thumb
+    400076: Sven_0001_0010:L_too
+    400078: Sven_0001_0010:L_vinger_grp
+    400080: Sven_0001_0010:L_wrist
+    400082: Sven_0001_0010:Meshes
+    400084: Sven_0001_0010:Neck_bone
+    400086: Sven_0001_0010:Neckpines_mesh
+    400088: Sven_0001_0010:R_ear
+    400090: Sven_0001_0010:R_ear_2
+    400092: Sven_0001_0010:R_elbow
+    400094: Sven_0001_0010:R_enkle
+    400096: Sven_0001_0010:R_eye_mesh
+    400098: Sven_0001_0010:R_hip
+    400100: Sven_0001_0010:R_index
+    400102: Sven_0001_0010:R_knee
+    400104: Sven_0001_0010:R_middle
+    400106: Sven_0001_0010:R_pinky
+    400108: Sven_0001_0010:R_shouder
+    400110: Sven_0001_0010:R_thumb
+    400112: Sven_0001_0010:R_too
+    400114: Sven_0001_0010:R_vinger_grouo
+    400116: Sven_0001_0010:R_wrist
+    400118: //RootNode
+    2100000: Sven_0001_0010_lambert3
+    2300000: Sven_0001_0010:Chestpines_mesh
+    2300002: Sven_0001_0010:Headpines_mesh
+    2300004: Sven_0001_0010:Hippines_mesh
+    2300006: Sven_0001_0010:L_eye_mesh_mesh
+    2300008: Sven_0001_0010:Neckpines_mesh
+    2300010: Sven_0001_0010:R_eye_mesh
+    3300000: Sven_0001_0010:Chestpines_mesh
+    3300002: Sven_0001_0010:Headpines_mesh
+    3300004: Sven_0001_0010:Hippines_mesh
+    3300006: Sven_0001_0010:L_eye_mesh_mesh
+    3300008: Sven_0001_0010:Neckpines_mesh
+    3300010: Sven_0001_0010:R_eye_mesh
+    4300000: Sven_0001_0010:Headpines_mesh
+    4300002: Sven_0001_0010:Neckpines_mesh
+    4300004: Sven_0001_0010:Chestpines_mesh
+    4300006: Sven_0001_0010:Hippines_mesh
+    4300008: Sven_0001_0010:Body_mesh
+    4300010: Sven_0001_0010:R_eye_mesh
+    4300012: Sven_0001_0010:L_eye_mesh_mesh
+    7400000: Sven_Idle_anim
+    9500000: //RootNode
+    13700000: Sven_0001_0010:Body_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sven_0001_0010_lambert3
+    second: {fileID: 2100000, guid: 1f147c9c88d0b2d4bb3401d73cae3862, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sven_Idle_anim
+      takeName: Sven_Idle_anim
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

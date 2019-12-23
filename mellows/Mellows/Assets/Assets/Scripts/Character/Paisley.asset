@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e7c34011a904dde84e4459a60d63e3, type: 3}
+  m_Name: Paisley
+  m_EditorClassIdentifier: 
+  SelectScreenIcon: {fileID: 21300000, guid: d866b9f03068c174aaa2187f082f8cdb, type: 3}
+  Illustratie: {fileID: 21300000, guid: bcde51dec8ffe2944b249ff5e7770977, type: 3}
+  Name: Paisley de Possom
+  Level: 5
+  Health: 100
+  Speed: 10
+  Cost: 1
+  Abilities:
+  - RequiredLevel: 0
+    Damage: 0
+  - RequiredLevel: 0
+    Damage: 0
+  - RequiredLevel: 0
+    Damage: 0
+  - RequiredLevel: 0
+    Damage: 0
+  - RequiredLevel: 0
+    Damage: 0
+  - RequiredLevel: 0
+    Damage: 0

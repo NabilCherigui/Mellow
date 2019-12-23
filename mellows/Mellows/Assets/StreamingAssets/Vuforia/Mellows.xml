@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Marker-het-geheime-recept" size="10.000000 14.176471" />
+    <ImageTarget name="marker" size="0.210000 0.297048" />
+    <ImageTarget name="BlocSteno" size="0.070000 0.093333" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 8ad3ce4a26bc37441bc006260d5806c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Berend:Berend_Mesh_Mesh
+    100002: Berend:Bones_etc
+    100004: Berend:Cape_1
+    100006: Berend:Cape_1 1
+    100008: Berend:Cape_1 2
+    100010: Berend:Cape_1 3
+    100012: Berend:Chest
+    100014: Berend:Head
+    100016: Berend:Hips
+    100018: Berend:Jaw
+    100020: Berend:joint11
+    100022: Berend:joint12
+    100024: Berend:joint2
+    100026: Berend:joint3
+    100028: Berend:joint5
+    100030: Berend:joint6
+    100032: Berend:joint8
+    100034: Berend:joint9
+    100036: Berend:L_elbow
+    100038: Berend:L_enkle
+    100040: Berend:L_hand_grp
+    100042: Berend:L_hip
+    100044: Berend:L_index
+    100046: Berend:L_knee
+    100048: Berend:L_mid
+    100050: Berend:L_pink
+    100052: Berend:L_shoudler
+    100054: Berend:L_thumb
+    100056: Berend:L_toe
+    100058: Berend:L_wrist
+    100060: Berend:Neck
+    100062: Berend:R_elbow
+    100064: Berend:R_enkle
+    100066: Berend:R_hip
+    100068: Berend:R_knee
+    100070: Berend:R_shoudler
+    100072: Berend:R_toe
+    100074: Berend:R_wrist
+    100076: //RootNode
+    400000: Berend:Berend_Mesh_Mesh
+    400002: Berend:Bones_etc
+    400004: Berend:Cape_1
+    400006: Berend:Cape_1 1
+    400008: Berend:Cape_1 2
+    400010: Berend:Cape_1 3
+    400012: Berend:Chest
+    400014: Berend:Head
+    400016: Berend:Hips
+    400018: Berend:Jaw
+    400020: Berend:joint11
+    400022: Berend:joint12
+    400024: Berend:joint2
+    400026: Berend:joint3
+    400028: Berend:joint5
+    400030: Berend:joint6
+    400032: Berend:joint8
+    400034: Berend:joint9
+    400036: Berend:L_elbow
+    400038: Berend:L_enkle
+    400040: Berend:L_hand_grp
+    400042: Berend:L_hip
+    400044: Berend:L_index
+    400046: Berend:L_knee
+    400048: Berend:L_mid
+    400050: Berend:L_pink
+    400052: Berend:L_shoudler
+    400054: Berend:L_thumb
+    400056: Berend:L_toe
+    400058: Berend:L_wrist
+    400060: Berend:Neck
+    400062: Berend:R_elbow
+    400064: Berend:R_enkle
+    400066: Berend:R_hip
+    400068: Berend:R_knee
+    400070: Berend:R_shoudler
+    400072: Berend:R_toe
+    400074: Berend:R_wrist
+    400076: //RootNode
+    2100000: Berend_lambert2
+    4300000: Berend:Berend_Mesh_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Berend:Berend_Mesh_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Berend_lambert2
+    second: {fileID: 2100000, guid: e6267cacb1f6c1d42b6afe97fb119384, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

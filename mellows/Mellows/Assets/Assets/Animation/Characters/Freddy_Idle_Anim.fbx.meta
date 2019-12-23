@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 6f10f677f9378bc419ddc7b959d4bd52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Freddy_0001_0002:Bones1
+    100002: Freddy_0001_0002:chest_bone
+    100004: Freddy_0001_0002:Freddy_obj_good_Mesh
+    100006: Freddy_0001_0002:FreddyBodyMesh
+    100008: Freddy_0001_0002:Headbone
+    100010: Freddy_0001_0002:Hip_bone
+    100012: Freddy_0001_0002:Jawbone
+    100014: Freddy_0001_0002:joint11
+    100016: Freddy_0001_0002:joint11 1
+    100018: Freddy_0001_0002:joint12
+    100020: Freddy_0001_0002:joint12 1
+    100022: Freddy_0001_0002:joint2
+    100024: Freddy_0001_0002:joint2 1
+    100026: Freddy_0001_0002:joint3
+    100028: Freddy_0001_0002:joint3 1
+    100030: Freddy_0001_0002:joint5
+    100032: Freddy_0001_0002:joint5 1
+    100034: Freddy_0001_0002:joint6
+    100036: Freddy_0001_0002:joint6 1
+    100038: Freddy_0001_0002:joint8
+    100040: Freddy_0001_0002:joint8 1
+    100042: Freddy_0001_0002:joint9
+    100044: Freddy_0001_0002:joint9 1
+    100046: Freddy_0001_0002:L_ear
+    100048: Freddy_0001_0002:L_ear_2
+    100050: Freddy_0001_0002:L_elbow
+    100052: Freddy_0001_0002:L_enkle
+    100054: Freddy_0001_0002:L_eye_grp
+    100056: Freddy_0001_0002:L_hip
+    100058: Freddy_0001_0002:L_index
+    100060: Freddy_0001_0002:L_knee
+    100062: Freddy_0001_0002:L_middle
+    100064: Freddy_0001_0002:L_pinky
+    100066: Freddy_0001_0002:L_shouder
+    100068: Freddy_0001_0002:L_thumb
+    100070: Freddy_0001_0002:L_too
+    100072: Freddy_0001_0002:L_vinger_grp
+    100074: Freddy_0001_0002:L_wrist
+    100076: Freddy_0001_0002:Leye
+    100078: Freddy_0001_0002:Neck_bone
+    100080: Freddy_0001_0002:R_ear
+    100082: Freddy_0001_0002:R_ear_2
+    100084: Freddy_0001_0002:R_elbow
+    100086: Freddy_0001_0002:R_enkle
+    100088: Freddy_0001_0002:R_eye_grp
+    100090: Freddy_0001_0002:R_hip
+    100092: Freddy_0001_0002:R_index
+    100094: Freddy_0001_0002:R_knee
+    100096: Freddy_0001_0002:R_middle
+    100098: Freddy_0001_0002:R_pinky
+    100100: Freddy_0001_0002:R_shouder
+    100102: Freddy_0001_0002:R_thumb
+    100104: Freddy_0001_0002:R_too
+    100106: Freddy_0001_0002:R_vinger_grouo
+    100108: Freddy_0001_0002:R_wrist
+    100110: Freddy_0001_0002:Reye
+    100112: Freddy_0001_0002:Tail_1
+    100114: Freddy_0001_0002:Tail_2
+    100116: Freddy_0001_0002:Tail_3
+    100118: Freddy_0001_0002:Tail_4
+    100120: Freddy_0001_0002:Tail_curve
+    100122: Freddy_0001_0002:Tail_ik
+    100124: //RootNode
+    400000: Freddy_0001_0002:Bones1
+    400002: Freddy_0001_0002:chest_bone
+    400004: Freddy_0001_0002:Freddy_obj_good_Mesh
+    400006: Freddy_0001_0002:FreddyBodyMesh
+    400008: Freddy_0001_0002:Headbone
+    400010: Freddy_0001_0002:Hip_bone
+    400012: Freddy_0001_0002:Jawbone
+    400014: Freddy_0001_0002:joint11
+    400016: Freddy_0001_0002:joint11 1
+    400018: Freddy_0001_0002:joint12
+    400020: Freddy_0001_0002:joint12 1
+    400022: Freddy_0001_0002:joint2
+    400024: Freddy_0001_0002:joint2 1
+    400026: Freddy_0001_0002:joint3
+    400028: Freddy_0001_0002:joint3 1
+    400030: Freddy_0001_0002:joint5
+    400032: Freddy_0001_0002:joint5 1
+    400034: Freddy_0001_0002:joint6
+    400036: Freddy_0001_0002:joint6 1
+    400038: Freddy_0001_0002:joint8
+    400040: Freddy_0001_0002:joint8 1
+    400042: Freddy_0001_0002:joint9
+    400044: Freddy_0001_0002:joint9 1
+    400046: Freddy_0001_0002:L_ear
+    400048: Freddy_0001_0002:L_ear_2
+    400050: Freddy_0001_0002:L_elbow
+    400052: Freddy_0001_0002:L_enkle
+    400054: Freddy_0001_0002:L_eye_grp
+    400056: Freddy_0001_0002:L_hip
+    400058: Freddy_0001_0002:L_index
+    400060: Freddy_0001_0002:L_knee
+    400062: Freddy_0001_0002:L_middle
+    400064: Freddy_0001_0002:L_pinky
+    400066: Freddy_0001_0002:L_shouder
+    400068: Freddy_0001_0002:L_thumb
+    400070: Freddy_0001_0002:L_too
+    400072: Freddy_0001_0002:L_vinger_grp
+    400074: Freddy_0001_0002:L_wrist
+    400076: Freddy_0001_0002:Leye
+    400078: Freddy_0001_0002:Neck_bone
+    400080: Freddy_0001_0002:R_ear
+    400082: Freddy_0001_0002:R_ear_2
+    400084: Freddy_0001_0002:R_elbow
+    400086: Freddy_0001_0002:R_enkle
+    400088: Freddy_0001_0002:R_eye_grp
+    400090: Freddy_0001_0002:R_hip
+    400092: Freddy_0001_0002:R_index
+    400094: Freddy_0001_0002:R_knee
+    400096: Freddy_0001_0002:R_middle
+    400098: Freddy_0001_0002:R_pinky
+    400100: Freddy_0001_0002:R_shouder
+    400102: Freddy_0001_0002:R_thumb
+    400104: Freddy_0001_0002:R_too
+    400106: Freddy_0001_0002:R_vinger_grouo
+    400108: Freddy_0001_0002:R_wrist
+    400110: Freddy_0001_0002:Reye
+    400112: Freddy_0001_0002:Tail_1
+    400114: Freddy_0001_0002:Tail_2
+    400116: Freddy_0001_0002:Tail_3
+    400118: Freddy_0001_0002:Tail_4
+    400120: Freddy_0001_0002:Tail_curve
+    400122: Freddy_0001_0002:Tail_ik
+    400124: //RootNode
+    2100000: Freddy_0001_0002_lambert4
+    2300000: Freddy_0001_0002:Leye
+    2300002: Freddy_0001_0002:Reye
+    3300000: Freddy_0001_0002:Leye
+    3300002: Freddy_0001_0002:Reye
+    4300000: Freddy_0001_0002:Leye
+    4300002: Freddy_0001_0002:Reye
+    4300004: Freddy_0001_0002:FreddyBodyMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Freddy_0001_0002:FreddyBodyMesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Freddy_0001_0002_lambert4
+    second: {fileID: 2100000, guid: a1545919d9cf9b94b810591d866a5a82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
